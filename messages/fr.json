@@ -1,0 +1,303 @@
+{
+  "hero": {
+    "badge": "✨ Offre spéciale pour dentistes",
+    "title": "Pourquoi votre clinique est <invisible>invisible</invisible> sur Internet ?",
+    "subtitle": "Alors que vos concurrents obtiennent <bookings>30+ rendez-vous par mois</bookings> en ligne... votre clinique dépend uniquement des recommandations limitées",
+    "painPoint": "<imagine>Imaginez :</imagine> de nouveaux patients vous trouvent en ligne, vous font confiance avant même d'appeler et réservent directement... alors que votre clinique manque cette opportunité chaque jour car vous n'êtes pas présent numériquement"
+  },
+  "problems": {
+    "title": "Rencontrez-vous ces problèmes dans votre clinique ?",
+    "subtitle": "La plupart des dentistes font face aux mêmes défis",
+    "list": [
+      {
+        "icon": "📉",
+        "title": "Baisse des rendez-vous",
+        "desc": "Vous dépendez uniquement des recommandations et d'une simple page Facebook, tandis que vos concurrents attirent de nouveaux patients chaque jour"
+      },
+      {
+        "icon": "😕",
+        "title": "Manque de confiance immédiate",
+        "desc": "Le patient vous cherche sur Google et ne trouve rien de professionnel, il choisit donc une autre clinique avec un site clair"
+      },
+      {
+        "icon": "💸",
+        "title": "Publicités inefficaces",
+        "desc": "Vous avez essayé les annonces payantes mais les gens ne réservent pas, car vous n'avez pas de site qui inspire confiance"
+      },
+      {
+        "icon": "⏰",
+        "title": "Perte de temps",
+        "desc": "Vous recevez de nombreux appels pour des questions simples (site, tarifs, services) que le site pourrait répondre automatiquement"
+      }
+    ],
+    "rootCause": {
+      "title": "La vraie raison : le manque de connaissances numériques",
+      "desc": "La plupart des dentistes sont experts dans leur domaine médical, mais ignorent le marketing digital moderne. Résultat : d'excellentes cliniques mais <invisible>invisibles</invisible> pour les patients qui cherchent en ligne"
+    }
+  },
+  "knowledgeGap": {
+    "title": "Ce que vous ignorez sur le marketing digital",
+    "myths": [
+      {
+        "myth": "❌ Croyance erronée",
+        "mythText": "Facebook + Instagram suffisent",
+        "reality": "✅ Réalité",
+        "realityText": "Les réseaux sociaux attirent seulement l'attention, le site web transforme le visiteur en patient",
+        "stat": "67% des patients préfèrent réserver via un site professionnel"
+      },
+      {
+        "myth": "❌ Croyance erronée",
+        "mythText": "Les annonces payantes sont chères et inefficaces",
+        "reality": "✅ Réalité",
+        "realityText": "Des annonces sans site = argent perdu. Annonces + site professionnel = investissement qui génère de vrais rendez-vous",
+        "stat": "3x augmentation du taux de conversion avec un site"
+      },
+      {
+        "myth": "❌ Croyance erronée",
+        "mythText": "Le site n'est qu'une carte de visite",
+        "reality": "✅ Réalité",
+        "realityText": "Un site intelligent est un réceptionniste 24/7, répond aux questions et transforme les visiteurs en rendez-vous",
+        "stat": "1 site = 40+ demandes supplémentaires par mois"
+      }
+    ]
+  },
+  "diagnosis": {
+    "title": "Diagnostic professionnel : 8 erreurs fatales détruisant votre présence numérique",
+    "subtitle": "Après avoir analysé des centaines de cliniques, nous avons identifié les erreurs qui vous coûtent des milliers de rendez-vous chaque année",
+    "intro": "En tant qu'experts en marketing digital pour cliniques dentaires depuis des années, nous voyons les mêmes erreurs se répéter. Voici le diagnostic complet :",
+    "items": [
+      {
+        "number": "1",
+        "title": "Absence sur plusieurs plateformes",
+        "problem": "Se concentrer uniquement sur Instagram et ignorer Facebook, TikTok, Snapchat",
+        "impact": "Perte de 60% des patients potentiels qui n'utilisent pas votre plateforme",
+        "solution": "Présence stratégique sur 4-5 plateformes avec contenu adapté à chaque public"
+      },
+      {
+        "number": "2",
+        "title": "Absence d'un site web professionnel",
+        "problem": "Pas de centre numérique centralisé qui rassemble toutes vos informations et construit la confiance",
+        "impact": "83% des visiteurs quittent votre page sans réserver faute de référence fiable",
+        "solution": "Site basé sur le comportement du patient avec Google Analytics pour suivre les résultats"
+      },
+      {
+        "number": "3",
+        "title": "Mauvaise compréhension du rôle du site",
+        "problem": "Penser que le site complique la réservation avec de longs formulaires",
+        "impact": "Refus de construire le site en raison d'une mauvaise conception de l'expérience utilisateur",
+        "solution": "Site simple avec un seul bouton : 'Appelez maintenant' ou 'Réservez via WhatsApp' - pas de formulaires complexes"
+      },
+      {
+        "number": "4",
+        "title": "Ne pas utiliser le contenu éducatif",
+        "problem": "Publier uniquement des photos avant/après sans explication",
+        "impact": "Le patient voit des dents mais pas l'expertise - perte de différenciation",
+        "solution": "Contenu quotidien : 40% éducation + 40% résultats + 20% offres (formule éprouvée)"
+      },
+      {
+        "number": "5",
+        "title": "Publicités sans infrastructure numérique",
+        "problem": "Dépenser des milliers pour des annonces sans site ni stratégie",
+        "impact": "Taux de conversion < 2% - gaspillage de 98% du budget publicitaire",
+        "solution": "Site + contenu + annonces ciblées = taux de conversion 8-12%"
+      },
+      {
+        "number": "6",
+        "title": "Reporter la création de la présence numérique",
+        "problem": "Attendre l'ouverture ou le 'moment parfait' pour construire le site",
+        "impact": "Perte de 30-50 patients potentiels chaque mois lors des premiers mois critiques",
+        "solution": "Commencez un mois avant l'ouverture - faites attendre les patients"
+      },
+      {
+        "number": "7",
+        "title": "Dépendance totale aux recommandations",
+        "problem": "Ne pas construire de canaux numériques durables pour acquérir des patients",
+        "impact": "Croissance très lente et limitée à votre réseau - pas d'expansion réelle",
+        "solution": "Recommandations + SEO + réseaux sociaux + site = croissance continue et accélérée"
+      },
+      {
+        "number": "8",
+        "title": "Dispersion des efforts numériques",
+        "problem": "Pages sociales non liées à un site centralisé - chaque plateforme est une île",
+        "impact": "Le visiteur se perd entre les pages et ne trouve pas un chemin clair pour réserver",
+        "solution": "Chaque plateforme conduit au même site - parcours patient unifié et étudié"
+      }
+    ],
+    "expertInsight": {
+      "title": "💡 Vision de l'expert",
+      "points": [
+        "90% des cliniques consultées commettent 5+ de ces erreurs",
+        "Les cliniques ayant corrigé ces erreurs ont vu une augmentation de 200-300% des rendez-vous en 6 mois",
+        "Le problème n'est pas la concurrence, mais l'absence d'une présence numérique professionnelle",
+        "La plupart des médecins investissent 100,000+ DZD dans l'équipement, mais hésitent à investir 38,000 DZD dans un outil qui attire les patients"
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion stratégique",
+      "mainPoint": "Les cliniques numériques réussies ne dépendent pas du hasard",
+      "desc": "Après analyse de 100+ cliniques en Algérie et dans le Golfe, la vérité est claire : celles qui construisent une présence numérique complète (site + contenu + multi-plateformes) obtiennent 3-5x plus de rendez-vous que les concurrents dépendant uniquement des recommandations.",
+      "warning": "⚠️ Attention : la concurrence s'intensifie. Chaque mois de retard, vos concurrents construisent leur présence et volent vos patients potentiels.",
+      "cta": "La question n'est pas 'Ai-je besoin d'un site ?' mais 'Combien de patients ai-je déjà perdus faute de site ?'"
+    }
+  },
+  "solution": {
+    "title": "Solution : un site basé sur <behavior>le comportement du patient</behavior>",
+    "subtitle": "Pas un simple site... mais un système marketing complet",
+    "whatWeDoTitle": "Que fait notre site pour vous ?",
+    "benefits": [
+      "Fait apparaître votre clinique sur Google quand les patients recherchent \"clinique dentaire à [votre ville]\"",
+      "Construit la confiance avec le patient avant qu'il n'appelle (infos, photos, avis)",
+      "Transforme les visiteurs des réseaux sociaux en rendez-vous réels",
+      "Répond automatiquement aux questions fréquentes, vous fait gagner du temps",
+      "Travaille 24/7 comme un réceptionniste infatigable",
+      "Collecte les données des patients potentiels pour un suivi ultérieur"
+    ],
+    "results": {
+      "title": "📊 Résultats réels de nos clients",
+      "subtitle": "Études de cas documentées",
+      "case1": {
+        "title": "Clinique en Arabie Saoudite - Riyad",
+        "subtitle": "Après 3 mois de lancement du site :",
+        "stats": [
+          "• 83 visiteurs directs depuis Google",
+          "• 47 rendez-vous supplémentaires par mois",
+          "• Réduction des appels de 35%",
+          "• ROI : 340% sur l'investissement"
+        ]
+      },
+      "case2": {
+        "title": "Clinique en Algérie - Oran",
+        "desc": "Passé de 12 patients/mois (recommandations seulement) à 38 patients/mois grâce aux sources numériques. Revenus augmentés de 216% en 5 mois"
+      },
+      "case3": {
+        "title": "Clinique aux Émirats - Dubaï",
+        "desc": "Site + stratégie de contenu : 124 demandes le premier mois, 68 rendez-vous réels. Taux de conversion 54,8% (moyenne du secteur 12%)"
+      }
+    },
+    "techComparison": {
+      "title": "💡 Pourquoi Next.js 15 et pas WordPress ?",
+      "subtitle": "Analyse technique par nos experts",
+      "desc": "Nous utilisons la même technologie que Netflix, Uber et TikTok. Pas parce qu'elle est 'tendance', mais parce qu'elle est la meilleure techniquement :",
+      "comparison": [
+        {
+          "metric": "Vitesse de chargement",
+          "wordpress": "4-7 secondes",
+          "nextjs": "0.8-1.5 seconde",
+          "impact": "5x plus rapide = taux de rebond réduit de 60%"
+        },
+        {
+          "metric": "Sécurité",
+          "wordpress": "83% des sites piratés",
+          "nextjs": "Sécurité niveau Enterprise",
+          "impact": "Protection complète contre les attaques"
+        },
+        {
+          "metric": "SEO",
+          "wordpress": "Nécessite des plugins payants",
+          "nextjs": "Optimisé automatiquement pour Google",
+          "impact": "Apparition plus rapide dans les résultats de recherche"
+        },
+        {
+          "metric": "Mises à jour",
+          "wordpress": "Peut bloquer le site lors des mises à jour",
+          "nextjs": "Mises à jour fluides sans interruption",
+          "impact": "Site toujours opérationnel sans problème"
+        }
+      ],
+      "pricing": "Site WordPress classique = 15,000-25,000 DZD\nNotre site avancé avec Next.js 15 = 38,000 DZD (offre spéciale)\n\nLa différence en qualité et performance : incomparable"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment construisons-nous un système marketing complet pour vous ?",
+    "steps": [
+      {
+        "num": "1",
+        "title": "Analyse de votre clinique",
+        "desc": "Consultation gratuite de 30 minutes pour comprendre vos besoins et la concurrence locale"
+      },
+      {
+        "num": "2",
+        "title": "Construction du site",
+        "desc": "Design d'un site professionnel avec Next.js et contenu marketing étudié"
+      },
+      {
+        "num": "3",
+        "title": "Stratégie de contenu",
+        "desc": "Plan complet pour réseaux sociaux + scripts vidéo + redirection des visiteurs vers le site"
+      },
+      {
+        "num": "4",
+        "title": "Résultats",
+        "desc": "Site fonctionnant 24/7 + augmentation des rendez-vous + réputation numérique solide"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Offre spéciale pour les premiers clients",
+    "package": {
+      "title": "Acheter le site",
+      "price": "38,000 DZD",
+      "oldPrice": "76,000 DZD",
+      "features": [
+        "Propriété complète du site",
+        "Code source complet",
+        "Hébergement gratuit (Vercel)",
+        "Support technique 1 an",
+        "Modifications de contenu gratuites",
+        "Google Analytics intégré",
+        "Support bilingue Arabe/Français",
+        "Technologie Next.js 15 + i18n dernière génération"
+      ],
+      "note": "Coût annuel très faible (domaine + hébergement)"
+    },
+    "limitedOffer": {
+      "title": "⚡ Offre limitée",
+      "desc": "Le prix passera à 76,000 DZD après les 10 premiers clients. <cta>Réservez maintenant pour seulement 38,000 DZD !</cta>"
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "questions": [
+      {
+        "q": "Combien de temps pour construire le site ?",
+        "a": "De 4 à 6 jours seulement. Nous avons besoin uniquement du logo et des informations de base (services, horaires, photos), le reste est pris en charge."
+      },
+      {
+        "q": "Puis-je modifier le site moi-même ?",
+        "a": "Le site est codé (pas WordPress), les modifications passent donc par nous. Mais les modifications simples (prix, numéros, textes) sont gratuites la première année."
+      },
+      {
+        "q": "Et si je n'obtiens pas de résultats ?",
+        "a": "Le site seul n'est pas magique. Le succès dépend de l'application de la stratégie marketing fournie (contenu social + direction des visiteurs). Nous vous donnons tous les outils et le plan, mais l'exécution nécessite engagement."
+      },
+      {
+        "q": "Proposez-vous des publicités payantes ?",
+        "a": "Oui, mais nous recommandons de commencer par le site. Les annonces sans site professionnel = argent perdu. Après création de la présence digitale, nous lançons des campagnes ciblées qui génèrent de vrais résultats."
+      },
+      {
+        "q": "Pourquoi Next.js est meilleur que WordPress ?",
+        "a": "WordPress est facile mais lent, moins sûr et limité. Next.js (technologie Netflix et Uber) est 5x plus rapide, plus sûr et totalement flexible pour tout développement futur. Un investissement dans l'avenir, pas une solution temporaire."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Réservez votre consultation gratuite maintenant",
+    "subtitle": "30 minutes pour analyser votre clinique et vous dire exactement ce dont vous avez besoin",
+    "intro": "Contactez-nous directement via WhatsApp pour obtenir :",
+    "benefits": [
+      "Analyse gratuite de votre présence digitale",
+      "Stratégie personnalisée pour augmenter les rendez-vous",
+      "Conseils précieux même si vous n'achetez pas"
+    ],
+    "buttonText": "Contactez-nous sur WhatsApp",
+    "note": "✅ Sans engagement • ✅ Sans carte bancaire • ✅ Conseils gratuits"
+  },
+  "footer": {
+    "company": "EliteWebPro - Solutions digitales pour cliniques dentaires",
+    "tagline": "Nous construisons des sites qui non seulement montrent vos services, mais transforment les visiteurs en patients"
+  },"whatsapp": {
+    "message": "مرحباً، أريد حجز استشارة مجانية.",
+    "button": "تواصل معنا"
+  }
+}
+
